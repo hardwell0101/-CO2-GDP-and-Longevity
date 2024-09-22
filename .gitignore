@@ -1,0 +1,21 @@
+# R specific
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
+
+# Output files
+*.html
+*.pdf
+
+# Data files (if you decide to include any local data files later)
+*.csv
+*.xlsx
+*.rds
+
+# OS specific
+.DS_Store
+Thumbs.db
+
+# RStudio project file (optional, depending on your preference)
+*.Rproj
